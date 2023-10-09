@@ -1,4 +1,4 @@
-![Alt text](./image.png)
+![Alt text](../image.png)
 
 Welcome to Cyber Evangelists' GitHub Organization!
 
