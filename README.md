@@ -1,17 +1,19 @@
 ![Alt text](image.png)
 
-This is the Offical Cyber Evangalists github organizaion! Here you can see our Different Open-Source projects. Feel free to make a pull request and contribute!
+Welcome to Cyber Evangelists' GitHub Organization!
+
+This is the official hub of Cyber Evangelists' open-source projects. Dive into our innovative initiatives, explore our codebase, and feel free to check project code. Join us in for better collaboration!
 
 ## Overview
-[Cyber Evangalists](https://cosmodiumcs.com) is a Cyber Security Education Company Created By [Cyber Evangalists Team](https://github.com/PrettyBoyCosmo) and co-founded by [Husnain](https://github.com/wyrdCCS). We make everything from remote access trojans, to discord bots, to an advanced cryptographic framework!
+[Cyber Evangalists](https://www.cyberevangelists.com) is a Company providing services and solutions in Cyber Security and Software engineering (At our core, we are Cyber Evangelists of change, a dynamic team of leaders comprising more than 20+ dedicated security researchers, penetration testers, and skilled software engineers. In a world where digital landscapes constantly evolve, our experts stay ahead of the curve, exploring the depths of the Internet & Systems to strengthen your digital transformation and crafting innovative software solutions.) Created By Cyber Evangalists Team and co-founded by [Husnain](https://github.com/husnain-ce). We provide solutions like Attack Surface Mangement, Automation, Mobile & Web Apps.
 
 ## Members
-[Husnain](Hussnaince): **CEO / Chief Executive** 
-Started Cosmodium at 17 and since then has made significant changes in the cybersecurity community.
+[Husnain](https://www.github.com/husnain-ce): **CEO / Founder** 
+Started Cyber Evangelists for providing best solutions in post-digital era and leading in cybersecurity community.
 
 
 ## Resources
-Please see the [resources](https://github.com/CosmodiumCS/resources) repository to see a list of tools.
+Please see the [resources](https://github.com/cyber-evangelists).
 
 ## Support
-You can join the [offical discord server]https://discord.com/channels/1037282284962848768/1037282284962848771 for support.
+You can join the [offical discord server]().
