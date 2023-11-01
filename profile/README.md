@@ -12,6 +12,7 @@ This is the official hub of Cyber Evangelists' open-source projects. Dive into o
 - VAPT
 - Custom Software Development
 - Mobile & Web Apps.
+- GDPR, HIPPA Compliance, & GRC
 
 ## Members
 [Husnain](https://www.github.com/husnain-ce): **CEO / Founder** 
