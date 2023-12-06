@@ -1,4 +1,4 @@
-![Alt text](image.png)
+![Alt text](github-profile-ce.png)
 
 Welcome to Cyber Evangelists' GitHub Organization!
 
