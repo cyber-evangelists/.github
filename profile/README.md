@@ -39,7 +39,7 @@ Ensuring your compliance with regulations such as GDPR and HIPAA, our team provi
 
 ## Members
 [Husnain](https://www.github.com/husnain-ce): **CEO / Founder** 
-Started Cyber Evangelists for providing best solutions in post-digital era and leading in cybersecurity community.
+Started Cyber Evangelists for providing best solutions for secure post-digital era, coginitive security and leading in cybersecurity community.
 
 
 ## Resources
