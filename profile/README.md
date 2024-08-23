@@ -1,4 +1,5 @@
-![Image](github-profile-ce.png)
+![github-profile-ce-2](https://github.com/user-attachments/assets/74716cfd-c9ce-47fe-9f9e-7f58543e68a9)
+
 
 Welcome to Cyber Evangelists' GitHub Organization!
 
